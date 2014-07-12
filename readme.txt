@@ -4,3 +4,4 @@ Git is wrong!
 Git is a very good software!
 Git tracks changes.
 Git tracks changes of files.
+Git learn
